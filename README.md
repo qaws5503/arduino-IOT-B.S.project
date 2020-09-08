@@ -1,7 +1,7 @@
 # arduino-IOT-B.S.project
  We combine EMG,MPU,Bluetooth with arduino, by doing this to get a system that can detecte wheather the action, which is 4 kinds of specific workout action, is corect or not.<br>
  
-##structure:
+##structure:<br>
 ![image](https://github.com/qaws5503/arduino-IOT-B.S.project/blob/master/%E8%B3%87%E6%96%99/structure.jpg)
 
 ##flow chart:
