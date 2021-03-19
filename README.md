@@ -8,4 +8,4 @@
 ![image](https://github.com/qaws5503/arduino-IOT-B.S.project/blob/master/%E8%B3%87%E6%96%99/flow_chart.jpg)
 
 ## video:
-https://drive.google.com/file/d/1R4Fi3lLmptNgDoP5xuTtrdxD-aKgD0xq/view?usp=sharing
+https://drive.google.com/uc?export=download&id=1R4Fi3lLmptNgDoP5xuTtrdxD-aKgD0xq
